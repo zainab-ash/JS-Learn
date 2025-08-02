@@ -1,1 +1,0 @@
-num1 is smaller
